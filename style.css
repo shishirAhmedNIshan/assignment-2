@@ -23,7 +23,7 @@
 }
 
 .heading {
-  width: 1366px;
+  width: 100%;
   height: 768px;
   background: rgba(255, 144, 14, 0.1);
 }
